@@ -1,0 +1,15 @@
+{
+  "name": "vr-box-server",
+  "version": "1.0.0",
+  "description": "\u0421\u0435\u0440\u0432\u0435\u0440 \u0434\u043b\u044f VR Box \u00b7 Quest: \u0430\u043a\u043a\u0430\u0443\u043d\u0442\u044b, \u043e\u0431\u043b\u0430\u0447\u043d\u043e\u0435 \u0441\u043e\u0445\u0440\u0430\u043d\u0435\u043d\u0438\u0435, \u043a\u043e\u043c\u043d\u0430\u0442\u044b, \u043f\u043e\u0437\u0438\u0446\u0438\u0438 \u0438 \u0433\u043e\u043b\u043e\u0441 \u043f\u043e \u0440\u0430\u0434\u0438\u0443\u0441\u0443",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "ws": "^8.17.1"
+  }
+}
